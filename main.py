@@ -13,4 +13,5 @@
 # import operadores.unarios
 # import operadores.aritmeticos
 # import operadores.atribuicao
-import operadores.logicos
+# import operadores.logicos
+import operadores.ternario
