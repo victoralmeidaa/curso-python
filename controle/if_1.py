@@ -1,6 +1,6 @@
 #!python3
 nota = float(input('Informe Nota: '))
-comportado = True if input('Comportado (y/n): ') == 'y' else False
+comportado = True if input('Comportado: (y/n): ') == 'y' else False
 
 if nota >= 9 and comportado:
     print('Parabens!')
