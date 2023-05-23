@@ -1,5 +1,8 @@
+#!python3
 lockdown = False
+grana = 101
 
-status = 'em casa' if lockdown else 'Uhuuuu'    # Caso LockDown for verdade imprime 'Em Casa' caso for falso imprime 'Uhuuuu'
+#   Resultado se Verdadeiro / Esprecao Logica / Resultado se Falso
+status = 'em casa' if lockdown or grana <= 100 else 'Uhuuuu' 
 
-print(status)
+print(f'O Status é: {status}')
