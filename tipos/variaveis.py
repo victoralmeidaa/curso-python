@@ -1,14 +1,14 @@
 #!python3
-a = 3
-b = 4.4
+a = 3               # inteiro
+b = 4.4             # decimais 
 
-# print(a + b)
+print(a + b)      # soma de variáveis 
 
-texto = 'Sua idade: '
-idade = 23
-#print(texto + str(idade))
+texto = 'Sua idade: '   # Cadeia de Caracteres
+idade = 23              # inteiro
+print(texto + str(idade)) # concatena String + inteiro
 
-print(f'{texto} {idade}')
+print(f'{texto} {idade}') # concatena String + inteiro, F 
 
 saudacao = 'bom dia'
 print(3 * saudacao)
