@@ -1,16 +1,16 @@
 #!python3
 
-print("ola mundo!")
+# print("ola mundo!")
 
-import pacote.sub.arquivo
-import tipos.variaveis
+# import pacote.sub.arquivo
+# import tipos.variaveis
 
 
-from tipos import variaveis, basicos
-import tipos.lista
-import tipos.tuplas
-import tipos.conjuntos
-import tipos.dicionario
+# from tipos import variaveis, basicos
+# import tipos.lista
+# import tipos.tuplas
+# import tipos.conjuntos
+# import tipos.dicionario
 
 # import operadores.unarios
 # import operadores.aritmeticos
@@ -22,4 +22,4 @@ import tipos.dicionario
 # import controle.if_2
 # import controle.for_1
 # import controle.while_1
-import controle.outros_Exemplos
+# import controle.outros_Exemplos
