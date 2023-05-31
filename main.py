@@ -3,6 +3,8 @@
 print("ola mundo!")
 
 import pacote.sub.arquivo
+
+
 import tipos.variaveis
 
 
