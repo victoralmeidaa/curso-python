@@ -2,15 +2,8 @@
 
 # print("ola mundo!")
 
-<<<<<<< HEAD
 # import pacote.sub.arquivo
 # import tipos.variaveis
-=======
-import pacote.sub.arquivo
-
-
-import tipos.variaveis
->>>>>>> 659892d7bb3c37842ac0302d8d67c5b9441061d3
 
 
 # from tipos import variaveis, basicos

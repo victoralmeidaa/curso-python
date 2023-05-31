@@ -5,13 +5,13 @@ c = 'Ola'   # String
 d = True    # Bool
 e = False   # Bool
 
-# print(a + b)      # soma de variáveis 
+# print(a + b)              # soma de variáveis 
 
 texto = 'Sua idade: '       # Cadeia de Caracteres
 idade = 23                  # inteiro
 # print(texto + str(idade)) # concatena String + inteiro
 
-print(f'{texto} {idade}') # concatena String + inteiro, F 
+print(f'{texto} {idade}')   # concatena String + inteiro, F 
 
 # saudacao = 'bom dia'
 
