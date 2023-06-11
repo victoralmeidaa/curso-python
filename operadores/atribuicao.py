@@ -1,21 +1,10 @@
-resultado = 2               # atribuicao
-print(resultado)
-
-resultado += resultado
-# resultado = 'teste'         # atribuicao
-# print(resultado)
-
+resultado = 2               # atribuicao simples
 resultado += 3              # atribuicao aditiva
-print(resultado)
+resultado -= 3              # atribuicao subtrativa
+resultado *= 3              # atribuicao multiplicativa
+resultado /= 3              # atribuicao divisiva
+resultado %= 3              # atribuicao modulo
+resultado **= 3             # atribuicao potencial
+resultado //= 3             # atribuicao divisao inteira
 
-resultado -= 1
-print(resultado)
-
-resultado *= 4
-print(resultado)
-
-resultado /= 2
-print(resultado)
-
-resultado %= 6
 print(resultado)

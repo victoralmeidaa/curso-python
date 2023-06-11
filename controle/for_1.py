@@ -4,7 +4,7 @@ for i in range(10):
 print('')
 
 for i in range(1, 11):
-    print(i,  end=' ')              # imprime de 1 a 10
+    print(i,  end=' ')              # imprime de 1 a 10 / end imprime na mesma linha
 print('')
 
 for i in range(1, 100, 7):          # imprime de 1 a 100 paso 7

@@ -15,4 +15,3 @@ else:
     print('Reprovado')
 
 print(nota)
-
