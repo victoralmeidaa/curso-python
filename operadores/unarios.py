@@ -1,7 +1,7 @@
-x = 3               
-y = 4               
+x = 3
+y = 4
 
-print(not False)    # Operador de negacao logico / imprime negacao de falso 
+print(not False)    # Operador de negacao logico / imprime negacao de falso
 print(not True)     # Operador de negacao logico / Imprime negacao de verdadeiro
 print(-x)           # Operador de negacao / investe o valor do numero
 print(--y)          # Operador de negacao / imprime o valor de negacao da negacao

@@ -4,9 +4,9 @@
 # nota = 0
 
 # while nota != -1:
-#     nota = float(input('Informe sua nota ou -1 para sair: ')) 
+#     nota = float(input('Informe sua nota ou -1 para sair: '))
 #     if nota != -1:
-#         quant += 1 
+#         quant += 1
 #         total += nota
 
 # print(f'Media da turma: {total / quant}')

@@ -8,7 +8,7 @@ for p in pessoas:
         print(f'{p} e {a}')             # imprime pessoas e adjetivos
 
 for i in [1, 2, 3]:                     # para definir um laco vazio e preciso do pass
-    pass 
+    pass
 
 for i in range(1, 11):
     if i % 2 == 1:

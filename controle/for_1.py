@@ -4,7 +4,8 @@ for i in range(10):
 print('')
 
 for i in range(1, 11):
-    print(i,  end=' ')              # imprime de 1 a 10 / end imprime na mesma linha
+    # imprime de 1 a 10 / end imprime na mesma linha
+    print(i,  end=' ')
 print('')
 
 for i in range(1, 100, 7):          # imprime de 1 a 100 paso 7
@@ -18,7 +19,8 @@ print('')
 nums = [2, 4, 6, 8]
 
 for n in nums:
-    print(n, end=' ')               # imprime todos os elementos de nums / end=' ' imprime tudo na mesma linha
+    # imprime todos os elementos de nums / end=' ' imprime tudo na mesma linha
+    print(n, end=' ')
 print('')
 
 texto = 'Python'
@@ -42,7 +44,7 @@ for atributo in produto:
 print('')
 
 for valor in produto.values():        # imprime os valores
-    print( valor, end=' ')
+    print(valor, end=' ')
 print('')
 
 for atributo in produto.keys():       # imprime as chaves

@@ -11,4 +11,3 @@ if a:
     print('Existe!')
 else:
     print('nao existe ou zero ou vazio...')
-

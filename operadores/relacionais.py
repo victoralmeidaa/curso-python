@@ -10,4 +10,3 @@ print(x != y)       # Operador de desigualdade
 
 print('5' != 5)
 print('5' == 5)
-
