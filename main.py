@@ -23,3 +23,8 @@
 # import controle.for_1
 # import controle.while_1
 # import controle.outros_Exemplos
+
+from funcoes import basico
+
+basico.saudacao()
+basico.saudacao('Maria', 20)
