@@ -26,5 +26,5 @@
 
 from funcoes import basico
 
-basico.saudacao()
-basico.saudacao('Maria', 20)
+basico.saudacao('Maria', 90)
+basico.saudacao(idade=40)
