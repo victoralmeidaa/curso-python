@@ -22,8 +22,7 @@
 # import controle.while_1
 # import controle.outros_Exemplos
 
-from funcoes import basico
-
+# from funcoes import basico
 # basico.saudacao('Maria', 90)
 # basico.saudacao(idade=40)
 # a = basico.soma_e_multi(x=10, a=2, b=3)
@@ -31,8 +30,10 @@ from funcoes import basico
 # resultado = a + b
 # print(resultado)
 
-from funcoes import args
+# from funcoes import args
+# s = args.soma(1, 2, 3)
+# print(s)
+# resultado = args.resultado_final(nome='Pedro', nota=7.9)
+# print(resultado)
 
-args.soma(1)
-args.soma(1, 2)
-args.soma(1, 2, 3)
+from funcoes import funcional
