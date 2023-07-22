@@ -39,4 +39,7 @@
 # from funcoes import funcional
 
 # import funcoes.map_reduce
-import funcoes.lambdas
+# import funcoes.lambdas
+
+# import oo.produto
+import oo.heranca
