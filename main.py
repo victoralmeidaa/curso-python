@@ -38,4 +38,5 @@
 
 # from funcoes import funcional
 
-import funcoes.map_reduce
+# import funcoes.map_reduce
+import funcoes.lambdas
